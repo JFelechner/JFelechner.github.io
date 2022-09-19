@@ -1,1 +1,8 @@
 
+body{
+  background-color: black;
+}
+
+h1, h4, h5, p, ul{
+  color: white;
+}
